@@ -2,6 +2,7 @@
   <img src="akudama-drive-anime.gif" alt="GIF Akudama Drive" width="700"/>
 </p>
 # 💫 About Me:
+<br>
 🔭 Je travaille actuellement sur des applications web et mobiles en tant que développeur Full Stack.<br>👯 Je cherche à collaborer sur des projets open source et des applications web Full Stack.<br>🤝 Je cherche de l’aide pour l’architecture backend Full Stack, l’optimisation des performances et le DevOps.<br>🌱 J’apprends actuellement JavaScript avancé, React / React Native, Node.js et les technologies Full Stack modernes.<br>💬 Tu peux me demander tout ce qui concerne le développement Full Stack, les API et les bases de données.<br>⚡ Fun fact : en tant que développeur Full Stack, j’aime transformer des problèmes complexes en solutions simples et efficaces.<br>
 
 
