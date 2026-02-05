@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="akudama-drive-anime.gif" alt="GIF Akudama Drive" width="700"/>
+  <img src="aku.gif" alt="GIF Akudama Drive" width="700"/>
 </p>
 # 💫 About Me:
 <br>
